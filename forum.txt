@@ -1,0 +1,309 @@
+#EXTM3U
+#EXTINF:-1,A&E +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/1
+#EXTINF:-1,AXN +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/2
+#EXTINF:-1,Band SP +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/3
+#EXTINF:-1,CNN +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/4
+#EXTINF:-1,Combate +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/5
+#EXTINF:-1,Discovery Channel +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/6
+#EXTINF:-1,Discovery Home & Health +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/7
+#EXTINF:-1,Discovery Turbo +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/8
+#EXTINF:-1,Disney Channel +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/9
+#EXTINF:-1,Fox Sports 2 +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/12
+#EXTINF:-1,Globo SP +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/14
+#EXTINF:-1,H2 +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/15
+#EXTINF:-1,HBO Family +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/16
+#EXTINF:-1,HBO 1 +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/17
+#EXTINF:-1,History Channel +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/18
+#EXTINF:-1,Premiere Clubes +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/20
+#EXTINF:-1,National Geographic +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/19
+#EXTINF:-1,Record SP +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/21
+#EXTINF:-1,Redetv! +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/22
+#EXTINF:-1,Smithsonian +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/24
+#EXTINF:-1,SBT +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/23
+#EXTINF:-1,Sportv 2 +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/25
+#EXTINF:-1,Sportv 3 +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/26
+#EXTINF:-1,SporTV 1 +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/27
+#EXTINF:-1,Telecine Pipoca +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/28
+#EXTINF:-1,Telecine Premium +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/29
+#EXTINF:-1,TNT +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/30
+#EXTINF:-1,TNT Series +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/31
+#EXTINF:-1,Universal +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/32
+#EXTINF:-1,Viva +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/33
+#EXTINF:-1,MTV +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/34
+#EXTINF:-1,MTV 00s +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/35
+#EXTINF:-1,RPC Curitiba +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/36
+#EXTINF:-1,TV Tribuna +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/37
+#EXTINF:-1,Multishow +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/38
+#EXTINF:-1,GNT +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/39
+#EXTINF:-1,A&E +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/42
+#EXTINF:-1,AMC +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/43
+#EXTINF:-1,Animal Planet +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/44
+#EXTINF:-1,Arte 1 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/45
+#EXTINF:-1,AXN +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/46
+#EXTINF:-1,Baby HD #2
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/47
+#EXTINF:-1,Band News +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/48
+#EXTINF:-1,Band PR +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/49
+#EXTINF:-1,Band SP +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/50
+#EXTINF:-1,Band Sports +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/51
+#EXTINF:-1,BIS +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/52
+#EXTINF:-1,Cartoonito +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/53
+#EXTINF:-1,Curta! +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/54
+#EXTINF:-1,Cancao Nova +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/55
+#EXTINF:-1,Cartoon Network +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/56
+#EXTINF:-1,Cinemax +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/57
+#EXTINF:-1,CNN Brasil +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/58
+#EXTINF:-1,Combate +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/59
+#EXTINF:-1,Comedy Central +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/60
+#EXTINF:-1,Cultura +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/61
+#EXTINF:-1,Discovery Channel +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/64
+#EXTINF:-1,Discovery Home & Health +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/65
+#EXTINF:-1,Discovery Kids +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/66
+#EXTINF:-1,Discovery Science +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/67
+#EXTINF:-1,Discovery Theater +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/68
+#EXTINF:-1,Discovery Turbo +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/69
+#EXTINF:-1,Discovery World +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/70
+#EXTINF:-1,Disney Channel  +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/71
+#EXTINF:-1,E! +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/74
+#EXTINF:-1,EPTV +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/75
+#EXTINF:-1,Film&Arts +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/80
+#EXTINF:-1,FishTV +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/81
+#EXTINF:-1,Fox +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/82
+#EXTINF:-1,CineCanal +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/83
+#EXTINF:-1,FX +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/88
+#EXTINF:-1,Globo SP +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/89
+#EXTINF:-1,Globo News +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/90
+#EXTINF:-1,Gloob +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/91
+#EXTINF:-1,GNT +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/92
+#EXTINF:-1,H2 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/93
+#EXTINF:-1,HBO 2 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/94
+#EXTINF:-1,HBO Family +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/95
+#EXTINF:-1,HBO 1 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/96
+#EXTINF:-1,HBO Mundi +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/97
+#EXTINF:-1,HBO Plus +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/98
+#EXTINF:-1,HBO Pop +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/99
+#EXTINF:-1,HBO Signature +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/100
+#EXTINF:-1,HBO Xtreme +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/101
+#EXTINF:-1,HGTV +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/102
+#EXTINF:-1,History Channel +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/103
+#EXTINF:-1,ID Investigação Discovery +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/104
+#EXTINF:-1,Lifetime +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/105
+#EXTINF:-1,Love Nature +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/106
+#EXTINF:-1,Mais Globosat +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/107
+#EXTINF:-1,Megapix +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/108
+#EXTINF:-1,MTV +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/109
+#EXTINF:-1,Multishow +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/110
+#EXTINF:-1,NHK +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/114
+#EXTINF:-1,Nick Junior +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/115
+#EXTINF:-1,Nickelodeon +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/116
+#EXTINF:-1,OFF +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/117
+#EXTINF:-1,Paramount +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/118
+#EXTINF:-1,Playboy +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/119
+#EXTINF:-1,Premiere 2 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/120
+#EXTINF:-1,Premiere 3 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/121
+#EXTINF:-1,Premiere 4 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/122
+#EXTINF:-1,Premiere 5 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/123
+#EXTINF:-1,Premiere 6 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/124
+#EXTINF:-1,Premiere Clubes +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/125
+#EXTINF:-1,Ratimbum +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/126
+#EXTINF:-1,Record News +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/127
+#EXTINF:-1,Record SP +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/128
+#EXTINF:-1,SBT Paraná +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/129
+#EXTINF:-1,Rede Vida +SD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/130
+#EXTINF:-1,RedeTV! +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/131
+#EXTINF:-1,Ric TV - Record Curitiba +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/132
+#EXTINF:-1,RPC Curitiba +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/133
+#EXTINF:-1,SBT SP +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/134
+#EXTINF:-1,Sextreme +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/135
+#EXTINF:-1,Sexyhot +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/136
+#EXTINF:-1,Smithsonian +FHD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/137
+#EXTINF:-1,Sony +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/138
+#EXTINF:-1,Space +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/139
+#EXTINF:-1,SporTV 2 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/140
+#EXTINF:-1,SporTV 3 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/141
+#EXTINF:-1,SporTV 1 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/142
+#EXTINF:-1,Studio Universal +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/143
+#EXTINF:-1,SyFy +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/144
+#EXTINF:-1,TBS +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/145
+#EXTINF:-1,TCM +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/146
+#EXTINF:-1,Telecine Action +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/147
+#EXTINF:-1,Telecine Cult +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/148
+#EXTINF:-1,Telecine Fun +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/149
+#EXTINF:-1,Telecine Pipoca +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/150
+#EXTINF:-1,Telecine Premium +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/151
+#EXTINF:-1,Telecine Touch +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/152
+#EXTINF:-1,TLC +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/153
+#EXTINF:-1,TNT +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/154
+#EXTINF:-1,TNT Series +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/155
+#EXTINF:-1,Tooncast +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/156
+#EXTINF:-1,TV Aparecida +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/157
+#EXTINF:-1,TV Tribuba +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/158
+#EXTINF:-1,Universal TV +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/159
+#EXTINF:-1,MTV 00s +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/161
+#EXTINF:-1,Viva +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/162
+#EXTINF:-1,Warner Channel +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/163
+#EXTINF:-1,Woohoo +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/164
+#EXTINF:-1,XxX 4K GUM+
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/165
+#EXTINF:-1,Cine Desenhos+
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/168
+#EXTINF:-1,Futura +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/40485
+#EXTINF:-1,XXX Adulto +
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/40331
+#EXTINF:-1,Conmebol TV 3 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/39491
+#EXTINF:-1,Conmebol TV 2 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/39490
+#EXTINF:-1,Conmebol TV 1 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/39489
+#EXTINF:-1,DAZN 1 +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/38578
+#EXTINF:-1,TV Brasil +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/5814
+#EXTINF:-1,Estádio TNT Sports +HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/5813
+#EXTINF:-1,ESPN 2 HD #2
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/105055
